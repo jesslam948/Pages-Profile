@@ -7,8 +7,8 @@ My name is Jessica Lam and I am currently a 2nd year **Computer Science** studen
 
 ### And a Favorite Quote from a Favorite Book
 > We cannot change the cards we are dealt, just how we play the hand.
->
->   -Randy Pausch, in *The Last Lecture*
+
+-Randy Pausch, in *The Last Lecture*
 
 ### And Some Random Code?
 ```
