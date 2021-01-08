@@ -9,27 +9,26 @@ My name is Jessica Lam and I am currently a 2nd year **Computer Science** studen
 > We cannot change the cards we are dealt, just how we play the hand.
 >   -Randy Pausch, in *The Last Lecture*
 
+### And Some Random Code?
+```
+while alive = true:
+    keep_moving_forward()
+```
+You're a legend if you've seen/remember *Meet the Robinsons* :'))
+
 ---
 
 # tree
-[Intro](https://jesslam948.github.io/#whoami)
-[My Journey](https://jesslam948.github.io/#traceroute-journeyme)
-
-    [Beginnings](https://jesslam948.github.io/#my-beginnings)
-
-    [Experience](https://jesslam948.github.io/#experience)
-
-        [Research](https://jesslam948.github.io/#research)
-
-        [Internship](https://jesslam948.github.io/#internship)
-
-        [Tutoring](https://jesslam948.github.io/#tutoring)
-
-[Box of Fun](https://jesslam948.github.io/#ls-boxoffun)
-
-    [Fun Facts](https://jesslam948.github.io/#fun-facts)
-
-    [Bucket List](https://jesslam948.github.io/#bucket-list)
+- [Intro](https://jesslam948.github.io/#whoami)
+- [My Journey](https://jesslam948.github.io/#traceroute-journeyme)
+    - [Beginnings](https://jesslam948.github.io/#my-beginnings)
+    - [Experience](https://jesslam948.github.io/#experience)
+        - [Research](https://jesslam948.github.io/#research)
+        - [Internship](https://jesslam948.github.io/#internship)
+        - [Tutoring](https://jesslam948.github.io/#tutoring)
+- [Box of Fun](https://jesslam948.github.io/#ls-boxoffun)
+    - [Fun Facts](https://jesslam948.github.io/#fun-facts)
+    - [Bucket List](https://jesslam948.github.io/#bucket-list)
 
 ---
 
@@ -59,9 +58,9 @@ I tutor under the Computer Science Engineering Department during the school year
 
 **Winter 2021**: CSE 291/190 - Intro to Computing Education Research
 
-**Fall 2020**: CSE 8B - Intro to Programming II
+**Fall 2020**: CSE 8A - Intro to Computer Science: Python
 
-**Spring 2020**: CSE 8A - Intro to Programming I
+**Spring 2020**: CSE 8B - Intro to Computer Science: Java II
 
 ---
 
