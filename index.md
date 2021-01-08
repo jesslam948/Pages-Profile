@@ -1,9 +1,9 @@
 # whoami
-### Introduction
-My name is Jessica Lam and I am currently a 2nd year **Computer Science** student at UC San Diego. I am passionate about **cybersecurity** and also have an interest in anything **cloud** and/or **infrastructure** related. I also love cats, matcha, and games like *Stardew Valley* and *Animal Crossing*!
-
 ### A Picture of Me :O
 <img src="./Jessica_Lam.jpeg" alt="my profile picture" width="200"/>
+
+### Introduction
+My name is Jessica Lam and I am currently a 2nd year **Computer Science** student at UC San Diego. I am passionate about **cybersecurity** and also have an interest in anything **cloud** and/or **infrastructure** related. I also love cats, matcha, and games like *Stardew Valley* and *Animal Crossing*!
 
 ### And a Favorite Quote from a Favorite Book
 > We cannot change the cards we are dealt, just how we play the hand.
@@ -19,6 +19,7 @@ You're a legend if you've seen/remember *Meet the Robinsons* :'))
 ---
 
 # tree
+### Table of Contents
 - [Intro](https://jesslam948.github.io/#whoami)
 - [My Journey](https://jesslam948.github.io/#traceroute-journeyme)
     - [Beginnings](https://jesslam948.github.io/#my-beginnings)
@@ -29,6 +30,10 @@ You're a legend if you've seen/remember *Meet the Robinsons* :'))
 - [Box of Fun](https://jesslam948.github.io/#ls-boxoffun)
     - [Fun Facts](https://jesslam948.github.io/#fun-facts)
     - [Bucket List](https://jesslam948.github.io/#bucket-list)
+
+### Some Relative Links???
+- [README.md](./README.md)
+- [My Profile Pic](./Jessica_Lam.jpeg)
 
 ---
 
