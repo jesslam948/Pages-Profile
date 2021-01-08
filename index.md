@@ -20,14 +20,14 @@ You're a legend if you've seen/remember *Meet the Robinsons* :'))
 
 # tree
 ### Table of Contents
-- [Intro](https://jesslam948.github.io/#whoami)
-- [My Journey](https://jesslam948.github.io/#traceroute-journeyme)
+- [whoami](https://jesslam948.github.io/#whoami)
+- [traceroute journey.me](https://jesslam948.github.io/#traceroute-journeyme)
     - [Beginnings](https://jesslam948.github.io/#my-beginnings)
     - [Experience](https://jesslam948.github.io/#experience)
         - [Research](https://jesslam948.github.io/#research)
         - [Internship](https://jesslam948.github.io/#internship)
         - [Tutoring](https://jesslam948.github.io/#tutoring)
-- [Box of Fun](https://jesslam948.github.io/#ls-boxoffun)
+- [ls ./BoxOfFun/](https://jesslam948.github.io/#ls-boxoffun)
     - [Fun Facts](https://jesslam948.github.io/#fun-facts)
     - [Bucket List](https://jesslam948.github.io/#bucket-list)
 
