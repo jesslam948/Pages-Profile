@@ -10,18 +10,21 @@ My name is Jessica Lam and I am currently a 2nd year Computer Science student at
 -Randy Pausch, in *The Last Lecture*
 
 ---
-## Brief Table of Contents
+
+# tree
 My Journey
     Beginnings
     Experience
         Research
         Internships
         Tutoring
-Box of Fun
+[Box of Fun](https://github.com/jesslam948/jesslam948.github.io/blob/main/index.md#ls-boxoffun)
     Fun Facts
     Bucket List
 
-# `traceroute journey.me`
+---
+
+# traceroute journey.me
 ### My Beginnings
 I've always loved puzzles, the challenge and process of problem solving. So, when I started learning how to code, I knew that this was something I wanted to do for as long as possible.
 
@@ -37,12 +40,16 @@ I have been involved in research with Professor Adalbert Gerald Soosai Raj since
 
 #### Internship
 **Summer 2020**: I interned under the High Performance Computing division at Los Alamos National Laboratory (LANL). I specifically studied a remote storage access protocol and learned a lot about storage and file systems!
+
 **Summer 2021**: I will be an Information Security Intern at Activision this coming summer! Very excited to see the intersection between cybersecurity and the gaming industry!
 
 #### Tutoring
 I tutor under the Computer Science Engineering Department during the school year. Here's a list of classes (in reverse chrono):
+
 **Winter 2021**: CSE 291/190 - Intro to Computing Education Research
+
 **Fall 2020**: CSE 8B - Intro to Programming II
+
 **Spring 2020**: CSE 8A - Intro to Programming I
 
 ---
@@ -60,6 +67,6 @@ I tutor under the Computer Science Engineering Department during the school year
     - I also learned and performed a different marimba solo each year of high school (maybe a video or two are still floating out there...)
 
 ### Random 3 Bucket List Items
-- [ ] Study Abroad (Taiwan? London? Australia? Who knows :D)
-- [ ] Attend DefCon (and all the other super cool hack-y conferences!)
-- [ ] 5 Star my Animal Crossing: New Horizons island :O
+- [ ]  Study Abroad (Taiwan? London? Australia? Who knows :D)
+- [ ]  Attend DefCon (and all the other super cool hack-y conferences!)
+- [ ]  5 Star my Animal Crossing: New Horizons island :O
