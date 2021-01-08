@@ -11,7 +11,7 @@ My name is Jessica Lam and I am currently a 2nd year **Computer Science** studen
 
 ### And Some Random Code?
 ```
-while alive = true:
+while alive == True:
     keep_moving_forward()
 ```
 You're a legend if you've seen/remember *Meet the Robinsons* :'))
