@@ -57,7 +57,7 @@ So, here I am, pursuing a degree in Computer Science at UCSD and aspiring to com
 #### Internship
 **Summer 2020**: I interned under the High Performance Computing division at Los Alamos National Laboratory (LANL). I specifically studied a remote storage access protocol and learned a lot about storage and file systems!
 
-**Summer 2021**: I will be an Information Security Intern at Activision this coming summer! Very excited to see the intersection between cybersecurity and the gaming industry!
+**Summer 2021**: I will be an Information Security Intern at Apple this coming summer! Very excited!
 
 #### Tutoring
 I tutor under the Computer Science Engineering Department during the school year. Here's a list of classes (in reverse chrono):
