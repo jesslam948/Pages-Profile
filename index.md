@@ -49,18 +49,32 @@ So, here I am, pursuing a degree in Computer Science at UCSD and aspiring to com
 ### Experience
 #### Research
 **Security Education Research**: I have been involved in research with Professor Adalbert Gerald Soosai Raj since my 1st year of university! We are researching the quality of security education in undergraduate computer science curriculum. Currently, we are examining introductory computer systems courses since these are mid-level courses we believe are most suitable for introducing students to security concepts such as *buffer overflow*
-- Published in ACM ICER 2020: [link](https://dl.acm.org/doi/10.1145/3372782.3406266)
-- Publishing in ACM SIGSCE TS 2021: link to be updated...
+- Published in ACM ICER 2020: [How Secure are Our Computer Systems Courses?](https://dl.acm.org/doi/10.1145/3372782.3406266)
+- Published in ACM SIGSCE TS 2021: [Textbook Underflow: Insufficient Security Discussions in Textbooks Used for Computer Systems Courses](https://dl.acm.org/doi/10.1145/3408877.3432416)
+- First Author!! in ACM SIGCSE TS 2022: [Identifying Gaps in the Secure Programming Knowledge and Skills of Students](https://dl.acm.org/doi/10.1145/3478431.3499391)
 
-**ERSP - Side Channel Attacks Research**: As a part of the Early Research Scholars Program at UCSD, I am learning how to conduct security research. My group is specifically focusing on a type of security attack technique called side channel attacks and are working this quarter to create a tool that can detect whether or not a victim program is susceptible to a specific type of side channel attack.
+**ERSP - Side Channel Attacks Research**: As a part of the Early Research Scholars Program at UCSD, I learned how to conduct security research. My group was specifically focused on a type of security attack technique called side channel attacks and created a tool that can detect whether or not a victim program is susceptible to a specific type of side channel attack called *CopyCat*.
+- Our poster: [link](https://drive.google.com/file/d/1a8HF_0W8X-SvuzfifL0QgFqsTnFp2i8h/view)
+- Our presentation: [link](https://drive.google.com/file/d/1kLY80YWIB172K3FkoHkwZswxkM-3cgnz/view)
+- Our code: [link](https://github.com/Isnavarr/CatWalk)
 
 #### Internship
 **Summer 2020**: I interned under the High Performance Computing division at Los Alamos National Laboratory (LANL). I specifically studied a remote storage access protocol and learned a lot about storage and file systems!
 
-**Summer 2021**: I will be an Information Security Intern at Apple this coming summer! Very excited!
+**Summer 2021**: I interned as Information Security Intern at Apple! I wrote vulnerability scanning modules to scan for 23 critical vulnerabilities across Apple's infrastructure.
+
+**Summer 2022**: I will be interning at Meta as a Software Engineer Intern!
+
+**Fall 2022**: I will be interning at NVIDIA as a Security Software Intern!
 
 #### Tutoring
 I tutor under the Computer Science Engineering Department during the school year. Here's a list of classes (in reverse chrono):
+
+**Spring 2022**: CSE 15L - Software Tools and Techniques Laboratory
+
+**Fall 2021 / Winter 2022**: CSE 8A - Intro to Computer Science: Python
+
+**Spring 2021**: CSE 3 - Fluency in Information Technology
 
 **Winter 2021**: CSE 291/190 - Intro to Computing Education Research
 
